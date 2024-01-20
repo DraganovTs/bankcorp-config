@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to bankcorp accounts related Production APIs"
   contactDetails:
     name: "Petar Petrov"
-    email: "petar@example.com"
+    email: "{cipher}de3c35e4070e0a2e3b637e5ec7e6a745c0e950beb2a0423ae4d8f1ef741507b68e5aabcef1af4b29b0db5954ed0a58c5"
   onCallSupport:
     -(222)222-2222
     -(111)111-1111
