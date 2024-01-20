@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to bankcorp accounts related production APIs"
+  message: "Welcome to bankcorp accounts related Production APIs"
   contactDetails:
     name: "Petar Petrov"
     email: "{cipher}de3c35e4070e0a2e3b637e5ec7e6a745c0e950beb2a0423ae4d8f1ef741507b68e5aabcef1af4b29b0db5954ed0a58c5"
