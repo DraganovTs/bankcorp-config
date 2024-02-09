@@ -3,7 +3,7 @@ build:
 
 accounts:
   message: "Welcome to bankcorp accounts related QA APIs"
-  contactDetails:
+  contact_Details:
     name: "Ivan Ivanov"
     email: "ivan@example.com"
   onCallSupport:
